@@ -84,36 +84,41 @@ console.log(str);
 Character |	Entity Name |	Entity Number(十进制)  
 | ---- | ---- | ----  
 [space] | \&nbsp;	| \&#32;  
-! |	\&excl; |	\&#33;
-" |	\&quot; | \&#34;
-#	| \&num; |	\&#35;
-$	| \&dollar; | \&#36;
-%	| \&percnt;	| \&#37;
-&	| \&amp; | \&#38;
-'	| \&apos;	| \&#39;
-(	| \&lpar;	| \&#40;
-)	| \&rpar;	| \&#41;
-*	| \&ast;	| \&#42;
-+	| \&plus;	| \&#43;
-,	| \&comma; | \&#44;
--	| \&hyphen; | \&#45;
-.	| \&period;	| \&#46;
-/	| \&sol; | \&#47;
-:	| \&colon; | \&#58;
-;	| \&semi;	| \&#59;
-<	| \&lt;	| \&#60;
-=	| \&equals;	| \&#61;
->	| \&gt;	| \&#62;
-?	| \&quest; | \&#63;
-@	| \&commat; | \&#64;
-[	| \&lsqb; | \&#91;
-\	| \&bsol; | \&#92;
-]	| \&rsqb;	| \&#93;
-^	| \&circ;	| \&#94;
-_	| \&lowbar;	| \&#95;
-`	| \&grave;	| \&#96;
-{	| \&lcub;	| \&#123;
-|	| \&verbar;	| \&#124;
-}	| \&rcub;	| \&#125;
-~	| \&tilde;	| \&#126;  
+\! |	\&excl; |	\&#33;
+\" |	\&quot; | \&#34;
+\#	| \&num; |	\&#35;
+\$	| \&dollar; | \&#36;
+\%	| \&percnt;	| \&#37;
+\&	| \&amp; | \&#38;
+\'	| \&apos;	| \&#39;
+\(	| \&lpar;	| \&#40;
+\)	| \&rpar;	| \&#41;
+\*	| \&ast;	| \&#42;
+\+	| \&plus;	| \&#43;
+\,	| \&comma; | \&#44;
+\-	| \&hyphen; | \&#45;
+\.	| \&period;	| \&#46;
+\/	| \&sol; | \&#47;
+\:	| \&colon; | \&#58;
+\;	| \&semi;	| \&#59;
+\<	| \&lt;	| \&#60;
+\=	| \&equals;	| \&#61;
+\>	| \&gt;	| \&#62;
+\?	| \&quest; | \&#63;
+\@	| \&commat; | \&#64;
+\[	| \&lsqb; | \&#91;
+\\	| \&bsol; | \&#92;
+\]	| \&rsqb;	| \&#93;
+\^	| \&circ;	| \&#94;
+\_	| \&lowbar;	| \&#95;
+\`	| \&grave;	| \&#96;
+\{	| \&lcub;	| \&#123;
+\|	| \&verbar;	| \&#124;
+\}	| \&rcub;	| \&#125;
+\~	| \&tilde;	| \&#126;  
+
+## 参考资料  
+[正则表达式](https://www.runoob.com/regexp/regexp-syntax.html)  
+[htmlEntity](https://www.cnblogs.com/polk6/p/html-entity.html)  
+
 
